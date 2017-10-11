@@ -1,0 +1,56 @@
+[33mcommit de3beb7a4f1fdecf8a5fd7fb1d3712a2c05c1241[m[33m ([m[1;36mHEAD -> [m[1;32mAntonio_featureX2[m[33m)[m
+Author: Antonio Cao Shen <antoniocaoshen@hotmail.com>
+Date:   Wed Oct 11 11:14:22 2017 -0700
+
+    added two.txt
+
+[33mcommit 468be3af261e6a52250230eb613440fb90f7d7f6[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Merge: 7f9e912 62bbf04
+Author: ykyDaniel <32403413+ykyDaniel@users.noreply.github.com>
+Date:   Tue Oct 10 17:19:53 2017 -0700
+
+    Merge pull request #1 from ykyDaniel/Antonio_feature2
+    
+    added new file
+
+[33mcommit 7f9e912938cda20ee570d4edf019a178930f26f5[m
+Merge: 5ac7485 1660763
+Author: ykyDaniel <32403413+ykyDaniel@users.noreply.github.com>
+Date:   Tue Oct 10 17:19:25 2017 -0700
+
+    Merge pull request #2 from ykyDaniel/Daniels_feature1
+    
+    add Daniels_feature1.txt
+
+[33mcommit 5ac7485e310df7c39bffa77b2cb7cf638faef950[m
+Merge: 65bcc19 53bf246
+Author: ykyDaniel <32403413+ykyDaniel@users.noreply.github.com>
+Date:   Tue Oct 10 17:19:16 2017 -0700
+
+    Merge pull request #3 from ykyDaniel/Gursharn_feature3
+    
+    add Gursharn_feature3.txt
+
+[33mcommit 62bbf048b46f41237e19e25bc29ffb09469aa125[m[33m ([m[1;31morigin/Antonio_feature2[m[33m)[m
+Author: Antonio Cao Shen <antoniocaoshen@hotmail.com>
+Date:   Tue Oct 10 17:12:40 2017 -0700
+
+    added new file
+
+[33mcommit 53bf2469d76d6b9102af068c5f313e77f9a0cdfe[m[33m ([m[1;31morigin/Gursharn_feature3[m[33m)[m
+Author: Gursharn Heer <gursharn_heer5987@hotmail.com>
+Date:   Tue Oct 10 17:05:35 2017 -0700
+
+    add Gursharn_feature3.txt
+
+[33mcommit 16607635887c86ea2e1f9843b58728023f64d728[m[33m ([m[1;31morigin/Daniels_feature1[m[33m)[m
+Author: Chufan Ye <yechufan1017@gmail.com>
+Date:   Tue Oct 10 17:04:21 2017 -0700
+
+    add Daniels_feature1.txt
+
+[33mcommit 65bcc19435678d007f1acb5a187418c260816552[m
+Author: Chufan Ye <yechufan1017@gmail.com>
+Date:   Tue Oct 10 17:00:52 2017 -0700
+
+    creating a master
